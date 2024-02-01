@@ -5,3 +5,4 @@ Sistema básico de um restaurante que recebe e descreve informações de algum p
 ## UML
 Diagrama UML criado na plataforma astah do sistema:
 
+![DiagramaRestaurante](https://github.com/AnaFlaviaRibeiro/Sistema-Restaurante/assets/103009514/9e38f57c-a307-4ee7-b6f1-c3f64c38945a)
